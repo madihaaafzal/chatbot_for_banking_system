@@ -39,7 +39,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/ai-banking-assistant.git
+git clone https://github.com/madihaaafzal/ai-banking-assistant.git
 cd ai-banking-assistant
 Create a virtual environment (optional but recommended)
 
